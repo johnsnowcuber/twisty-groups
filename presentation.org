@@ -139,7 +139,9 @@ https://github.com/stewSquared/twisty-groups/src/main/scala/twistygroups/example
    - Rubik's Cube Group at Wikipedia: https://en.wikipedia.org/wiki/Rubik%27s_Cube_group
    - Group Theory and the Rubik's Cube: http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik's%20Cube.pdf
    - Intuition for SemiDirect Products http://rwoodley.org/?p=1550
+   - How to solve a Rubik's Cube https://www.speedcube.com.au/pages/how-to-solve-a-rubiks-cube
 ** Buy Puzzles
    - Giiker Cube: http://giiker.cn 
    - http://TheCubicle.com 
    - http://SpeedCubeShop.com
+   - http://speedcube.com.au
